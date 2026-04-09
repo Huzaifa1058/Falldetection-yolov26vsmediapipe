@@ -31,7 +31,7 @@ To run this project on your local Windows/Linux machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/azeem-aslam-ch/falldetectionpipeline.git
+   git clone https://github.com/Huzaifa1058/Falldetection-yolov26vsmediapipe/tree/main
    cd falldetectionpipeline
    ```
 
@@ -60,7 +60,7 @@ You can deploy this dashboard for free on the web:
 2. Go to [share.streamlit.io](https://share.streamlit.io).
 3. Connect your GitHub account.
 4. Click **"New App"** and select:
-   - **Repository:** `azeem-aslam-ch/falldetectionpipeline`
+   - **Repository:** https://github.com/Huzaifa1058/Falldetection-yolov26vsmediapipe/tree/main
    - **Branch:** `main`
    - **Main file path:** `app.py`
 5. Click **Deploy!**
